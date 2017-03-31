@@ -35,3 +35,7 @@ Description des commandes
 « /quit » : permet de quitter la conversation.
 
 « /exit » : permet de fermer le programme.
+
+
+
+Le protocole TCP permet la communication client/serveur tandis que le protocole UDP permet quant à lui la communication client/client. Par le protocole UDP, le client ne doit demander au serveur qu'une seule fois la liste des personnes connectées.
