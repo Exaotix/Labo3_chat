@@ -1,7 +1,5 @@
 # Labo3_chat
 
-# Labo3_chat
-
 Mode Serveur
 
 Procédure de connexion en mode « server ».
