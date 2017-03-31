@@ -38,4 +38,6 @@ Description des commandes
 
 
 
+Description des protocoles TCP et UDP
+
 Le protocole TCP permet la communication client/serveur tandis que le protocole UDP permet quant à lui la communication client/client. Par le protocole UDP, le client ne doit demander au serveur qu'une seule fois la liste des personnes connectées.
